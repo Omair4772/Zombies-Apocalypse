@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590991780998",
+    "project_id": "zombies-apocalypse-71983",
+    "storage_bucket": "zombies-apocalypse-71983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590991780998:android:814899bfb0544a79adb507",
+        "android_client_info": {
+          "package_name": "com.OmairGamer.ZombiesApocalypse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590991780998-4krr427pphv5msot6n4kb7reh7p3lvmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LNuEbYkewz7HoByk64KB0HnAfGkUVVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590991780998-4krr427pphv5msot6n4kb7reh7p3lvmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
